@@ -3,7 +3,7 @@
 [![4k_Kelenian on youtube](https://img.youtube.com/vi/iR9mUnrwWNs/0.jpg)](https://www.youtube.com/watch?v=iR9mUnrwWNs)
 
 
-# 4k Intro Template
+# 4kb Intro Template
 
 Template code for building a 4k demoscene intro on Windows.
 The template is based on [Inigo Guilez's 4k framework](http://www.iquilezles.org/code/isystem1k4k/isystem1k4k.htm), with some fairly major cleaning and streamlining done.
